@@ -32,3 +32,6 @@ General Information
 These tools and technologies used in this project are combined to enhance the game's functionality and user experience. React facilitates the management and extensibility of the application thanks to its component-based structure, while Material-UI provides a stylish and easy-to-use user interface. JavaScript and CSS are combined with sound effects and visuals to make the game experience more fun and interactive.
 
 If you have any questions or feedback, please contact me!
+
+
+!!! YOU CAN RUN THE PROJECT BY DOWNLOADING THE ATTACHED ZIP FILE AND DOING NPM INSTALL
